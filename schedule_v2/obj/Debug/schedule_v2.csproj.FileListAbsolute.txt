@@ -1,0 +1,17 @@
+C:\Dima\vscsharp\schedule_v2\schedule_v2\bin\Debug\schedule_v2.exe.config
+C:\Dima\vscsharp\schedule_v2\schedule_v2\bin\Debug\schedule_v2.exe
+C:\Dima\vscsharp\schedule_v2\schedule_v2\bin\Debug\schedule_v2.pdb
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.FMain_.resources
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.Properties.Resources.resources
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.csproj.GenerateResource.cache
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.exe
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.pdb
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.FScheduleItem_.resources
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.UC_BtnMenu_.resources
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.UC_FormCloseBtns_.resources
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.csprojAssemblyReference.cache
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.FStudentsItem_.resources
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.FLesson_.resources
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.FLessonTopic_.resources
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.FPayment_.resources
+C:\Dima\vscsharp\schedule_v2\schedule_v2\obj\Debug\schedule_v2.FSchedulePeriod_.resources
